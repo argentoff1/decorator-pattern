@@ -1,0 +1,2 @@
+# decorator-pattern
+Паттерн "Декоратор"
